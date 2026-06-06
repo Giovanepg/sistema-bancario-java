@@ -24,6 +24,14 @@ A arquitetura foi projetada para ser **extensível**, permitindo a adição de n
 
 ---
 
+## 🧾 Diagrama de Classes
+
+Abaixo está o diagrama de classes do sistema, representando a estrutura e relacionamento entre as entidades do sistema:
+
+<img width="1536" height="1024" alt="Diagrama de Classes - Sistema Bancario drawio" src="https://github.com/user-attachments/assets/a1d5c452-8c48-4794-aa0e-b97e69c998d1" />
+
+---
+
 ## ⚠️ Exceções do sistema
 
 ### ❌ OperacaoInvalidaException (Checked)
